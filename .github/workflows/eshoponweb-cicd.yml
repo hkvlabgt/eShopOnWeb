@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 0e6c76b5-e035-4265-90d5-2c8d1c93ca7e
   WEBAPP-NAME: eshoponweb-webapp-hvlab1
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
